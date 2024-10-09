@@ -11,10 +11,13 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@langchain/core": "^0.3.8",
+    "@langchain/openai": "^0.3.5",
     "@remix-run/node": "^2.12.1",
     "@remix-run/react": "^2.12.1",
     "@remix-run/serve": "^2.12.1",
     "isbot": "^4.1.0",
+    "langchain": "^0.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
